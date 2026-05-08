@@ -2,12 +2,12 @@
 
 ## Team Members
 ** [Group 02] **
-* **Members**:
-*     |Name|student ID|
-    * |吳婕綾|113370205|
-    * |賴映彤|113A50036|
 
----
+* **Members**:
+| Name | Student ID | Role |
+| :--- | :--- | :--- |
+| **吳婕綾** | 113370205 |
+| **賴映彤** | 113A50036 |
 
 ## Research Question
 * **Selected Question**: Question 1 
