@@ -1,0 +1,58 @@
+## Variable Coding
+
+WhatIsYourSex
+1 = Male
+2 = Female
+
+CurrentCigaretteUse
+Original coding:
+Code 1 = No current cigarette use
+Codes 2–7 = Current cigarette use
+
+Recoded variable:
+0 = No current cigarette use
+1 = Current cigarette use
+
+---
+
+## Group Definition
+
+The study compares two independent groups:
+Male students
+female students
+
+The grouping variable is `WhatIsYourSex`.
+
+---
+
+## Response Variable Definition
+
+The response variable is `CurrentCigaretteUse`.
+This variable measures whether a student currently uses cigarettes.
+After recoding:
+0 = No current cigarette use
+1 = Current cigarette use
+
+Because the response variable is binary, the analysis compares proportions between groups.
+
+---
+
+## Method Choice
+
+A two-proportion z-test was used.
+Reason:
+* The response variable is binary.
+* The study compares proportions between two independent groups.
+
+The study also calculated a 95% confidence interval for the difference in proportions.
+
+---
+
+## Assumptions Considered
+The following assumptions were considered:
+
+1. The two groups are independent.
+2. The response variable is binary.
+3. Sample sizes are sufficiently large.
+4. Missing values were removed before analysis.
+5. The comparison focuses on proportions, not means.

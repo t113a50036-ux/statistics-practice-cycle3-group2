@@ -1,0 +1,9 @@
+Summary:
+Male proportion: 0.173
+Female proportion: 0.216
+Difference (male - female): -0.0426
+z statistic: -6.215
+p-value: 5.14e-10
+95% CI: (-0.056, -0.029)
+
+Conclusion: Reject H0. There is sufficient evidence that the proportions are different.
