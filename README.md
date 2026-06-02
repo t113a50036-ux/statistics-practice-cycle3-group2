@@ -1,5 +1,11 @@
 # Project Cycle3-group2
 
+## Project Repository
+https://github.com/t113a50036-ux/statistics-practice-cycle3-group2
+
+## Presentation Video
+
+
 ## Members:
 | Name | Student ID |
 | :--- | :--- |
