@@ -4,7 +4,7 @@
 https://github.com/t113a50036-ux/statistics-practice-cycle3-group2
 
 ## Presentation Video
-
+https://drive.google.com/file/d/1u6xUp8odpDos-jYxNLHEVuJzCgugs81t/view?usp=drivesdk
 
 ## Members:
 | Name | Student ID |
